@@ -1,2 +1,2 @@
 # m1code-refactor
-refactor challenge 1
+code refactor challenge 1
